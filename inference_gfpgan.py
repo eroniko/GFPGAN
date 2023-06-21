@@ -1,3 +1,4 @@
+#python3 inference_gfpgan.py -i /root/imgai/inputs/3.jpg -o /root/imgai/results/ -v RestoreFormer -s 2
 #python3 inference_gfpgan.py -i /root/imgai/inputs/3.jpg -o /root/imgai/results/ -v 1.4 -s 2
 
 import argparse
